@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @surendias
-- 👀 I’m a Full Stack Development from Sri Lanka
+- 👀 I’m a Full Stack Developer from Sri Lanka
 - 🌱 I’m currently working with vue.js and node.js
 - 💞️ I’m looking to collaborate on npm packages
 - 📫 How to reach me suren[at]surendias.com or @surendias on twitter
